@@ -2,7 +2,7 @@
 
 Para executar o ProjetoPratico_karate e obter o relatório de testes:
 
-mvn test –Dtest=DocRunner
+mvn test –Dtest=PokeRunner
 
 Para executar o ProjetoPratico_cypress, basta rodar o comando dentro da pasta /ProjetoPratico:
 
